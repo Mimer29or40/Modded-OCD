@@ -1,0 +1,70 @@
+All:
+ - Double check gui placements ie furnace progress locations
+ - Check all ores are the same
+Bibliocraft:
+ - Natura Woods // Fuck all of the woods
+Biomes O Plenty:
+ - All
+Botania:
+ - altar
+ - altarMossy // I dont know what these are for.
+Botany:
+ - All
+Carpenter's Blocks:
+ - All
+Chisel:
+ - Blocks
+EE3:
+ - All
+EnderIO:
+ - Alloy Smelter GUI
+Extra Trees:
+ - Butterflies
+ - Planks: // From forestry
+   - Citrus
+   - Pine
+   - Plum
+ - Saplings // Look into foresrty
+ - Pattern Edges // maybe....
+Factorization:
+ - Silver // Use TE Colors
+ - Lead
+Forestry:
+ - All
+IC2:
+ - Ores // Use TE Colors
+ - Dot out of place on basic machine
+Iron Chest:
+ - Use TE ore colors for copper and silver chests
+Minecraft:
+ - Horse
+ - Rabbit
+ - Villager
+ - Elder Guardian
+ - Iron Golen
+ - SilverFish
+ - Snowman
+ - Steve
+ - Witch
+ - Zombie Pigman
+Mine Factory Reloaded:
+ - Villager
+Mystcraft:
+ - Villager
+Nartua:
+ - Fix leaves to look like vanilla
+NEI Plugins:
+ - TC Smeltery guis once final texture is made
+Open Blocks:
+ - King-ish
+Pneumatic Craft:
+ - Villager
+ - Random textures not changed. Look into mod jar
+Railcraft:
+ - Villager
+ - Metal Blocks
+Steve's Carts:
+ - Santa Model
+Thaumcraft:
+ - Wizard
+ - Villager
