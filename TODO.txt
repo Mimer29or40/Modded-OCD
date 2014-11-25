@@ -1,6 +1,7 @@
 All:
  - Double check gui placements ie furnace progress locations
  - Check all ores are the same
+ - Scale down textures
 Bibliocraft:
  - Natura Woods // Fuck all of the woods
 Biomes O Plenty:
@@ -68,3 +69,5 @@ Steve's Carts:
 Thaumcraft:
  - Wizard
  - Villager
+ - Warded Jar needs to be one color
+ - Warded Jar Model
