@@ -71,3 +71,4 @@ Thaumcraft:
  - Villager
  - Warded Jar needs to be one color
  - Warded Jar Model
+ - Research Book Gui
