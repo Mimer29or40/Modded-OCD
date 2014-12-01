@@ -2,6 +2,7 @@ All:
  - Double check gui placements ie furnace progress locations
  - Check all ores are the same
  - Scale down textures
+ - Fluids
 Bibliocraft:
  - Natura Woods // Fuck all of the woods
 Biomes O Plenty:
@@ -72,3 +73,8 @@ Thaumcraft:
  - Warded Jar needs to be one color
  - Warded Jar Model
  - Research Book Gui
+Tinkers Construct:
+ - Villager
+ - Crystal Water
+ - Goo Girl Both
+ - Skyla
