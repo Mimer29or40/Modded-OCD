@@ -49,6 +49,7 @@ Minecraft:
  - Steve
  - Witch
  - Zombie Pigman
+ - Fire
 Mine Factory Reloaded:
  - Villager
 Mystcraft:
@@ -78,3 +79,7 @@ Tinkers Construct:
  - Crystal Water
  - Goo Girl Both
  - Skyla
+Thaumic Tinkerer:
+ - Fire Textures
+Twilight Forest:
+ - Carminite Golem
