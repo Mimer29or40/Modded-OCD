@@ -5,6 +5,7 @@ All:
  - Fluids
 Bibliocraft:
  - Natura Woods // Fuck all of the woods
+ - Table Legs need to be changed
 Biomes O Plenty:
  - All
 Botania:
@@ -83,3 +84,7 @@ Thaumic Tinkerer:
  - Fire Textures
 Twilight Forest:
  - Carminite Golem
+Witchery:
+ - Apothecary
+ - Babayaga
+ - Witches
