@@ -40,7 +40,6 @@ IC2:
 Iron Chest:
  - Use TE ore colors for copper and silver chests
 Minecraft:
- - Horse
  - Rabbit
  - Villager
  - Elder Guardian
@@ -50,7 +49,6 @@ Minecraft:
  - Steve
  - Witch
  - Zombie Pigman
- - Fire
 Mine Factory Reloaded:
  - Villager
 Mystcraft:
