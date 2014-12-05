@@ -40,7 +40,6 @@ IC2:
 Iron Chest:
  - Use TE ore colors for copper and silver chests
 Minecraft:
- - Villager
  - Elder Guardian
  - Iron Golen
  - SilverFish
