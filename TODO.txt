@@ -8,9 +8,6 @@ Bibliocraft:
  - Table Legs need to be changed
 Biomes O Plenty:
  - All
-Botania:
- - altar
- - altarMossy // I dont know what these are for.
 Botany:
  - All
 Carpenter's Blocks:
@@ -37,8 +34,6 @@ Forestry:
 IC2:
  - Ores // Use TE Colors
  - Dot out of place on basic machine
-Iron Chest:
- - Use TE ore colors for copper and silver chests
 Mine Factory Reloaded:
  - Villager
 Mystcraft:
