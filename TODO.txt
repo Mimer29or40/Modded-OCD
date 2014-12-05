@@ -39,14 +39,6 @@ IC2:
  - Dot out of place on basic machine
 Iron Chest:
  - Use TE ore colors for copper and silver chests
-Minecraft:
- - Elder Guardian
- - Iron Golen
- - SilverFish
- - Snowman
- - Steve
- - Witch
- - Zombie Pigman
 Mine Factory Reloaded:
  - Villager
 Mystcraft:
