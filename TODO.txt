@@ -38,10 +38,6 @@ Mine Factory Reloaded:
  - Villager
 Mystcraft:
  - Villager
-Nartua:
- - Fix leaves to look like vanilla
-NEI Plugins:
- - TC Smeltery guis once final texture is made
 Open Blocks:
  - King-ish
 Pneumatic Craft:
