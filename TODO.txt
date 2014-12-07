@@ -2,17 +2,13 @@ All:
  - Double check gui placements ie furnace progress locations
  - Check all ores are the same
  - Scale down textures
- - Fluids
-Bibliocraft:
- - Natura Woods // Fuck all of the woods
+ - Fluids?
 Biomes O Plenty:
  - All
 Botany:
  - All
 Carpenter's Blocks:
  - All
-Chisel:
- - Blocks
 EE3:
  - All
 EnderIO:
