@@ -1,0 +1,91 @@
+# List of Mods
+AODB                        2.3.5
+Applied Energistics 2       rv2 beta 1
+Aroma1997 Core              1.0.2.13
+Aroma Backup                0.0.0.5
+BCAPI                       6.0.x
+Better Title Screen         1.1
+BiblioCraft                 1.9.1
+BiblioWoods BoP             1.9
+BiblioWoods Forestry        1.7
+BiblioWoods Natura          1.5
+Big Reactors                0.4.0A
+Binnie fix                  dev5 1.0
+Binnie mods                 2.0 dev5
+Biomes O Plenty             2.1.0.1004
+Blood Magic                 1.3.0 Beta 6
+Botania                     1.3-143
+Buildcraft                  6.2.6
+Carpenter's Blocks          3.2.8
+Chicken Chunks              1.3.4.14
+Chisel 2                    2.1.3
+Code Chicken Core           1.0.4.29
+CoFH Core                   3.0B9-40
+CoFH Lib                    1.0.0B8-34
+Compact Solars              4.4.37.314
+Computer Craft              1.65
+Dense Ores                  1.5
+Ender IO                    2.2.5.311
+Ender Storage               1.4.5.26
+Ender Zoo                   1.0.7.16
+Extra Utilities             1.2.1
+Factorization               0.8.88.1
+Flat Signs                  2.1.0.19
+Forestry                    3.3.0.6
+Funky Locomotion            beta 3
+Hats                        4.0.1
+Hat Stand                   4.0.0
+Help Fixer                  1.0.5
+IC2 Nuclear Control         2.0.5b
+iChun Util                  4.0.0
+Industrial Craft 2          2.2.648
+InfiniBows                  1.3.0.20
+INpure Core                 1.0.0B7-19
+Inventory Tweaks            1.59 dev 156
+IronChests                  6.0.60.741
+Jabba                       1.2.0
+JourneyMap                  5.0.1
+Magic Bees                  2.1.22
+Mantle                      0.3.2
+Mine Factory Reloaded       2.8.0RC6-5
+MineMenu                    1.1.8.B40
+Mine Tweaker 3              3.0.9B
+Mobius Core                 1.2.3
+Modular Powersuits          0.11.0.176
+Morph                       Beta 0.9.1
+MystCraft                   0.11.0.00
+Natura                      2.2.0.1
+NEI Addons                  1.12.2.9
+NEI Initegration            1.0.3
+Not Enough Codecs           0.3 snapshot 11
+NEI                         1.0.3.73
+Not Enough Keys             1.0.0b29
+Numina                      0.4.0.100
+ObsidiPlates                3.0.0.18
+Open Blocks                 1.3 snapshot 513
+Open Mods Libs              0.6 snapshot 268
+Open Peripheral Addons      0.2.0 snapshot 139
+Open Peripheral Core        0.5.0
+Open Peripheral Integration 0.1.0 snapshot 17
+Opis                        1.2.3
+Pneumatic Craft             1.4.3-40
+Project Red                 4.5.6.57
+Railcraft                   9.4.0.0
+Redstone Arsenal            1.1.0RC1-19
+Slick util
+Steves Carts                2.0.0 b18
+Steves Factory Manager      A92
+T Construct                 1.7.1d
+Thaumcraft                  4.2.1.4
+Thaumic Exploration         1.1-29
+Thaumic Tinkerer            2.5-161
+Thermal Expansion           4.0.0B8-23
+Thermal Foundation          1.0.0RC1-13
+TiC Tooltips                1.1.11b
+T Mechworks                 0.2.10
+Translocator                1.1.1.14
+Twilight Forest             2.3.1
+Waila                       1.5.6a
+Waila Harvestability        1.1.0
+Witchery                    0.20.6
+Wireless Redstone CBE       1.4.1.9
